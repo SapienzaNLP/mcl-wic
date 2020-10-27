@@ -1,4 +1,4 @@
-# MCL-WiC
-<b>Semeval-2021 Task 2: Multilingual and Cross-lingual Word-in-Context Task</b>
+# Semeval-2021 Task 2: Multilingual and Cross-lingual Word-in-Context Task
+<b>GitHub repository</b>
 
 The Codalab competition is available here: https://competitions.codalab.org/competitions/27054
