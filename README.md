@@ -3,6 +3,8 @@
 
 The Codalab competition is available here: https://competitions.codalab.org/competitions/27054
 
+All participants are kindly asked to fill out the following form: https://docs.google.com/forms/d/e/1FAIpQLScge0Y-Z-oevdSlfXHPjYzLYpRKJEQpWtXDXoxNxLIUbeSnMw/viewform?usp=sf_link
+
 ## License
 This project is released under the CC-BY-NC 4.0 license (see `LICENSE.txt`). If you use the data, please cite: 
 
