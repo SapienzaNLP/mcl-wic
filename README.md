@@ -10,7 +10,7 @@ This project is released under the CC-BY-NC 4.0 license (see `LICENSE.txt`). If 
 
 F. Martelli, N. Kalach, G. Tola, R. Navigli. SemEval-2021 Task 2: Multilingual and Cross-lingual Word-in-Context Disambiguation (MCL-WiC). Proc. of the 15th Workshop on Semantic Evaluation, 2021.
 
-BibTex:
+BibTeX:
 
 @inproceedings{martelli-etal-2021-mclwic,
 title = "{S}em{E}val-2021 {T}ask 2: {M}ultilingual and {C}ross-lingual {W}ord-in-{C}ontext {D}isambiguation ({MCL}-{W}i{C})",
