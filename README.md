@@ -1,4 +1,4 @@
-## SemEval-2021 Task 2: MCL-WiC
+## SemEval-2021 Task 2: Multilingual and Cross-lingual Word-in-ContextDisambiguation
 <b>Multilingual and Cross-lingual Word-in-Context Task</b>
 
 The Codalab competition took place at: https://competitions.codalab.org/competitions/27054
