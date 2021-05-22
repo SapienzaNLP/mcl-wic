@@ -3,7 +3,7 @@
 
 The Codalab competition took place at: https://competitions.codalab.org/competitions/27054
 
-Link to the paper: https://github.com/SapienzaNLP/mcl-wic/blob/master/SemEval_2021_Task_2__Multilingual_and_Cross_lingual_Word_in_Context_Disambiguation__MCL_WiC___Paper_.pdf
+Link to the paper: https://raw.githubusercontent.com/SapienzaNLP/mcl-wic/master/SemEval_2021_Task_2__Multilingual_and_Cross_lingual_Word_in_Context_Disambiguation__MCL_WiC___Paper_.pdf
 
 ## License
 This project is released under the CC-BY-NC 4.0 license (see `LICENSE.txt`). If you use the data, please cite: 
