@@ -12,7 +12,7 @@ Martelli, F., Kalach, N., Tola, G and Navigli, R. SemEval-2021 Task 2: Multiling
 
 ## Citation
 
-Please cite our work as follows. 
+Please cite our work as follows: 
 
 Martelli, F., Kalach, N., Tola, G and Navigli, R. SemEval-2021 Task 2: Multilingual and Cross-lingual Word-in-Context Disambiguation (MCL-WiC). Proc. of the 15th Workshop on Semantic Evaluation, 2021.
 
