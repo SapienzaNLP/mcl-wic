@@ -23,7 +23,7 @@ year={2021}
 ## License
 This project is released under the CC-BY-NC 4.0 license (see `LICENSE.txt`). If you use the data, please cite: 
 
-Martelli, F., Kalach, N., Tola, G and Navigli, R. SemEval-2021 Task 2: Multilingual and Cross-lingual Word-in-Context Disambiguation (MCL-WiC). Proc. of the 15th Workshop on Semantic Evaluation, 2021.
+Martelli, F., Kalach, N., Tola, G and Navigli, R. [SemEval-2021 Task 2: Multilingual and Cross-lingual Word-in-Context Disambiguation (MCL-WiC)](https://raw.githubusercontent.com/SapienzaNLP/mcl-wic/master/SemEval_2021_Task_2__Multilingual_and_Cross_lingual_Word_in_Context_Disambiguation__MCL_WiC___Paper_.pdf). Proc. of the 15th Workshop on Semantic Evaluation, 2021.
 
 ## Acknowledgements
 The authors gratefully acknowledge the support of the <a href="http://elex.is">ELEXIS EU Project</a> No. 731015 and the <a href="http://mousse-project.org">ERC Consolidator Grant MOUSSE</a> No. 726487 under the European
